@@ -1,0 +1,45 @@
+* {
+  box-sizing: border-box;
+}
+
+
+
+
+.title{
+  font-family:arial;
+  font-size:100px;
+  transform:rotate(90deg);
+  margin-left:-850px;
+  margin-top:920px;
+  color:darkred;
+}
+
+.hashtag{
+  font-family:times;
+  font-size:20px;
+  margin-left:80%;
+  margin-top:-95%;
+  position:fixed;
+
+}
+
+.hashtag:hover{
+  color:darkred;
+}
+
+.bodytext{
+  font-family:times;
+  font-size:13px;
+  width:30%;
+  margin-left:300px;
+  margin-top:-700px;
+}
+
+.ending{
+  font-family:arial;
+  font-size:30px;
+  margin-left:40%;
+  text-align:right;
+  color:blue;
+
+}
