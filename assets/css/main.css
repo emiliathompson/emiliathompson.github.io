@@ -3,8 +3,6 @@
 }
 
 
-
-
 .title {
     font-family: arial;
     font-size: 100px;
@@ -40,10 +38,10 @@ a:hover {
 
 .bodytext{
   font-family:times;
-  font-size:25px;
+  font-size:22px;
   width:70%;
   margin-left:20%;
-  background-color: peachpuff;
+  
 }
 
 .ending{
@@ -56,18 +54,28 @@ a:hover {
 }
 
 .left {
-width: 60%;
-background-color: cyan;
+width: 50%;
+
 }
 
 .right {
-  width: 60%;
+  width: 50%;
   margin-left: 40%;
   text-align: right;
-  background-color: blue;
+
 }
 
 
 .homepage {
   background-color: red;
+}
+
+.index{
+  background-color:darkred;
+}
+
+.index.title{
+  font-size:120px;
+  font-family:arial;
+  text-align:center;
 }
