@@ -2,8 +2,21 @@
   box-sizing: border-box;
 }
 
-html{
+
+.mass{
   background-color:lightgrey;
+}
+
+.juv{
+  background-color: lightgrey;
+}
+
+.digi{
+  background-color: lightgrey;
+}
+
+.death{
+  background-color: lightgrey;
 }
 
 .title {
@@ -23,6 +36,7 @@ html{
     top: 40px;
     position: fixed;
 }
+
 
 a {
   color:white;
@@ -72,5 +86,23 @@ width: 60%;
 
 
 .index{
-  background-color:darkred;
+  background-color:lightgrey;
+}
+
+.index_title{
+  font-family:arial;
+  font-size:200px;
+  color:black;
+  left:2%;
+  position:absolute;
+}
+
+.indexlinks{
+  text-align:right;
+  font-family:arial;
+  font-size:80px;
+  color:black;
+  top:72%;
+  right:5%;
+  position:absolute;
 }
