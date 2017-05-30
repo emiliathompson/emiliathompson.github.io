@@ -85,11 +85,11 @@ width: 60%;
 }
 
 .quote:hover{
-  color:black;
+  color:red;
 }
 
 .booktitle{
-  color:red;
+  color:black;
 }
 
 .bracket{
