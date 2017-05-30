@@ -38,16 +38,24 @@
 }
 
 
-a {
+.chapters {
   color:white;
   text-decoration: none;
 }
 
-a:hover {
+.chapters:hover {
   color: red;
   text-decoration: none;
 }
 
+.home {
+  color:darkgrey;
+  text-decoration: none;
+}
+
+.home:hover{
+  color:black;
+}
 
 .bodytext{
   font-family:times;
@@ -90,6 +98,10 @@ width: 60%;
 
 .booktitle{
   color:black;
+}
+
+.link{
+  text-decoration: none;
 }
 
 .bracket{
