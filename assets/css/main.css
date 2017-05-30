@@ -80,9 +80,21 @@ width: 60%;
   width:300px;
 }
 
+.quote{
 
+}
 
+.quote:hover{
+  color:black;
+}
 
+.booktitle{
+  color:red;
+}
+
+.bracket{
+  color:darkgrey;
+}
 
 
 .index{
@@ -91,7 +103,7 @@ width: 60%;
 
 .index_title{
   font-family:arial;
-  font-size:200px;
+  font-size:220px;
   color:black;
   left:2%;
   position:absolute;
@@ -100,9 +112,9 @@ width: 60%;
 .indexlinks{
   text-align:right;
   font-family:arial;
-  font-size:80px;
+  font-size:70px;
   color:black;
-  top:72%;
-  right:5%;
+  top:83%;
+  right:3%;
   position:absolute;
 }
